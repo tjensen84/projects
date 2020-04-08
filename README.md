@@ -1,0 +1,2 @@
+# projects
+Organizational notes
